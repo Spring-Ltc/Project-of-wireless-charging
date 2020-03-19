@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=*? NewDesignator=D
+Change Component Designator: OldDesignator=*? NewDesignator=J
+Added Pin To Net: NetName=VCC Pin=J-1
+Added Pin To Net: NetName=VCC Pin=J-2
+Added Pin To Net: NetName=VCC Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-14
+Added Pin To Net: NetName=GND Pin=J-15
+Added Pin To Net: NetName=GND Pin=J-16
+Change Net Name : Old Net Name=Net*?_1 New Net Name=NetD_1
+Change Net Name : Old Net Name=Net*?_3 New Net Name=NetD_3
+Change Net Name : Old Net Name=Net*?_5 New Net Name=NetD_5
+Added Pin To Net: NetName=PC6 Pin=*?-38
+Added Pin To Net: NetName=PC6 Pin=J-10
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC8 Pin=*?-37
+Added Pin To Net: NetName=PC8 Pin=J-11
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=*?-9
+Added Pin To Net: NetName=PC9 Pin=J-12
+Added Net: Name=PC9
+Added Pin To Net: NetName=PD6 Pin=*?-15
+Added Pin To Net: NetName=PD6 Pin=J-5
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=J-6
+Added Net: Name=PD7
+Added Pin To Net: NetName=PG7 Pin=*?-39
+Added Pin To Net: NetName=PG7 Pin=J-7
+Added Net: Name=PG7
+Added Member To Class: ClassName=Sheet1 Member=Component D Coder
+Added Member To Class: ClassName=Sheet1 Member=Component J Header2.54_2X8
+Added Room: Name=Sheet1

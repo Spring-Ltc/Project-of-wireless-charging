@@ -1,0 +1,24 @@
+Added Component: Designator=CH1_1(SMA)
+Added Component: Designator=CH1N_1(SMA)
+Added Pin To Net: NetName=TIM8_CH2 Pin=CH1_1-1
+Added Pin To Net: NetName=TIM8_CH2N Pin=CH1N_1-1
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1_1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1_1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1_1-0
+Added Pin To Net: NetName=NetCH1_0 Pin=CH1_1-0
+Added Net: Name=NetCH1_0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N_1-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N_1-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N_1-0
+Added Pin To Net: NetName=NetCH1N_0 Pin=CH1N_1-0
+Added Net: Name=NetCH1N_0
+Added Member To Class: ClassName=Sheet1 Member=Component CH1_1 SMA
+Added Member To Class: ClassName=Sheet1 Member=Component CH1N_1 SMA

@@ -1,0 +1,53 @@
+Added Component: Designator=*?(Header2.54_2X22)
+Added Component: Designator=*?(Coder)
+Added Component: Designator=*?(Header 2.54_2X8)
+Added Component: Designator=CH1N(SMA)
+Added Component: Designator=CH1(SMA)
+Added Component: Designator=R1(0805_R)
+Added Component: Designator=R2(0805_R)
+Added Component: Designator=R3(0805_R)
+Added Pin To Net: NetName=GND Pin=*?-1
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-4
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=A Pin=*?-21
+Added Pin To Net: NetName=A Pin=*?-24
+Added Net: Name=A
+Added Pin To Net: NetName=KEY Pin=*?-25
+Added Net: Name=KEY
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=R1-1
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=Net*?_3 Pin=*?-3
+Added Pin To Net: NetName=Net*?_3 Pin=R3-2
+Added Net: Name=Net*?_3
+Added Pin To Net: NetName=Net*?_5 Pin=*?-5
+Added Pin To Net: NetName=Net*?_5 Pin=R2-1
+Added Net: Name=Net*?_5
+Added Pin To Net: NetName=TIM8_CH2N Pin=*?-44
+Added Pin To Net: NetName=TIM8_CH2N Pin=CH1N-1
+Added Net: Name=TIM8_CH2N
+Added Pin To Net: NetName=TIM8_CH2 Pin=*?-8
+Added Net: Name=TIM8_CH2
+Added Pin To Net: NetName=TIM8_CH3 Pin=CH1-1
+Added Net: Name=TIM8_CH3
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component *? Left_out
+Added Member To Class: ClassName=Sheet1 Member=Component *? Coder
+Added Member To Class: ClassName=Sheet1 Member=Component *? Header2.54_2X8
+Added Member To Class: ClassName=Sheet1 Member=Component CH1N SMA
+Added Member To Class: ClassName=Sheet1 Member=Component CH1 SMA
+Added Member To Class: ClassName=Sheet1 Member=Component R1 RES_0805
+Added Member To Class: ClassName=Sheet1 Member=Component R2 RES_0805
+Added Member To Class: ClassName=Sheet1 Member=Component R3 RES_0805
+Added Room: Name=Sheet1

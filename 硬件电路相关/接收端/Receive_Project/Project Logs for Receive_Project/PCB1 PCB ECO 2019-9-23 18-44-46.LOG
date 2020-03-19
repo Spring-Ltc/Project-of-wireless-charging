@@ -1,0 +1,50 @@
+Added Component: Designator=C1(电解电容直插)
+Added Component: Designator=C2(电解电容直插)
+Added Component: Designator=COM(接线端子直插)
+Added Component: Designator=D1(TO-220(带散热片))
+Added Component: Designator=D2(TO-220(带散热片))
+Added Component: Designator=D3(TO-220(带散热片))
+Added Component: Designator=D4(TO-220(带散热片))
+Added Component: Designator=IN1(JET)
+Added Component: Designator=IN2(JET)
+Added Component: Designator=J+(JET)
+Added Component: Designator=J-(JET)
+Added Component: Designator=LED(LED_1206)
+Added Component: Designator=R(1206_R)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=COM-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-3
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=GND Pin=J--1
+Added Pin To Net: NetName=GND Pin=R-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=COM-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=NetC1_1 Pin=J+-1
+Added Pin To Net: NetName=NetC1_1 Pin=LED-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-3
+Added Pin To Net: NetName=NetD1_1 Pin=D3-2
+Added Pin To Net: NetName=NetD1_1 Pin=D3-2
+Added Pin To Net: NetName=NetD1_1 Pin=IN2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-3
+Added Pin To Net: NetName=NetD2_1 Pin=D4-2
+Added Pin To Net: NetName=NetD2_1 Pin=D4-2
+Added Pin To Net: NetName=NetD2_1 Pin=IN1-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R-2
+Added Net: Name=NetLED_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

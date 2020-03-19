@@ -1,0 +1,18 @@
+Added Component: Designator=*?(Header 2.54_2X8)
+Added Component: Designator=*?(Coder)
+Added Component: Designator=*?(Header2.54_2X22)
+Added Component: Designator=*?(SMA)
+Added Component: Designator=*?(SMA)
+Added Component: Designator=R?(0805_R)
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Net: Name=GND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

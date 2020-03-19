@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=A Pin=*?-24
+Change Component Designator: OldDesignator=CH1 NewDesignator=CH1_1
+Change Component Designator: OldDesignator=CH1N NewDesignator=CH1N_1
+Added Pin To Net: NetName=B Pin=*?-24
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Pin To Net: NetName=GND Pin=CH1N-0
+Added Member To Class: ClassName=Sheet1 Member=Component CH1_1 SMA
+Added Member To Class: ClassName=Sheet1 Member=Component CH1N_1 SMA
